@@ -6,3 +6,4 @@ let greeting= "Welcome to JS, "
 console.log(greeting)
 
 welcomeEl.innerHTML= greeting+ name
+welcomeEl.innerHTML += "👋🏽"
