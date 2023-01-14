@@ -1,0 +1,24 @@
+body {
+
+    background:url(R.jpeg);
+    color: burlywood;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+}
+
+
+button{
+    display: grid;
+    color: green;
+    margin:20px 20px;
+    width: 200px;
+    height: 30px;
+    padding: top 3px bottom 3px left 90px;
+    border-radius: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    font-size: large;
+}
+
